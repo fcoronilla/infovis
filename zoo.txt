@@ -1,1 +1,9 @@
-Hola mundo
+Small Multiples
+Horizon Graphs
+Stem-and-Leaf Plots
+Q-Q Plots
+Parallel Coordinates
+Choropleth Maps
+Enclosure Diagrams
+Arc Diagrams
+Adjacency Diagrams
